@@ -1,0 +1,1 @@
+(self.webpackChunkmonday_ui_react_core=self.webpackChunkmonday_ui_react_core||[]).push([[177],{"?6eb0":()=>{}}]);
